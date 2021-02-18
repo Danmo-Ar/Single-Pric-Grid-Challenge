@@ -36,7 +36,7 @@
       width: 600px;
       height: 430px;
       left: 50%;
-      transform: translate(-50%, 50%);
+      transform: translate(-50%, 30%);
       background: var(--ligth);
       display: grid;
       grid-template-rows: 1fr 2fr;
